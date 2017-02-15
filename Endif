@@ -1,0 +1,9 @@
+<!--[if (lt IE 9)&(!IEMobile)]>
+			<script src="js/vendor/respond.min.js"></script>
+<![endif]-->
+上面这段语句是有效的
+而如果把lt改成It（capslock+i）就失效 问题出在it的i上 百思不得其解 
+<!--[if (It IE 9)&(!IEMobile)]>
+			<script src="js/vendor/respond.min.js"></script>
+<![endif]-->
+暂时的解决办法 复制别人的It字符来代替自己手工输入
