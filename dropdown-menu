@@ -16,17 +16,20 @@
 </script>
 <body>
 	<div class="container">
-		<div class="dropdown">
+		<div class="dropdown col-sm-2 col-sm-offset-3">
 			<button type="button" class="btn btn-danger" data-toggle="dropdown">
 				<span class="glyphicon glyphicon-glass"></span>
 				用户
 				<span class="caret"></span>
 			</button>
-			<ul class="dropdown-menu dropdown-menu-left"><!--设置ul与dropdown的div的对齐方式-->
+			<ul class="dropdown-menu dropdown-menu-right"><!--设置ul与dropdown的div的对齐方式-->
+				<li>title</li><!--设置标题-->
+				<li><a href>aaa</a></li>
 				<li><a href>aaa</a></li>
 				<li><a href>bbb</a></li>
+				<li class="divider">分割线</li><!--设置分割线-->
 				<li><a href>ccc</a></li>
-				<li><a href>ddd</a></li>
+				<li class="disabled"><a href>ddd</a></li><!--设置禁用-->
 			</ul>
 		</div>
 	</div>
