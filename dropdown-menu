@@ -22,7 +22,7 @@
 				用户
 				<span class="caret"></span>
 			</button>
-			<ul class="dropdown-menu">
+			<ul class="dropdown-menu dropdown-menu-left"><!--设置ul与dropdown的div的对齐方式-->
 				<li><a href>aaa</a></li>
 				<li><a href>bbb</a></li>
 				<li><a href>ccc</a></li>
