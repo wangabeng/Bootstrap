@@ -83,3 +83,9 @@
   </body>
 </html>
 ```
+# bootstrap默认定义了4种媒体查询大小（有3个断点）
+1 宽度小于768px的超小型设备 如小手机屏幕;  col-xs-  
+2 宽度大于768px 小于992的小设备 如平板电脑;  col-sm-  
+3 宽度小于992px的中等尺寸设备 如小型桌面显示器; col-md-  
+4 宽度小于1200px的超小型设备 如大型桌面显示器; col-lg-  
+![avatar](https://github.com/wangabeng/Bootstrap/blob/master/1721174390-5488f77f33c5d_articlex.png?raw=true)
