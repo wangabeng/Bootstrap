@@ -89,3 +89,8 @@
 3 宽度小于992px的中等尺寸设备 如小型桌面显示器; col-md-  
 4 宽度小于1200px的超小型设备 如大型桌面显示器; col-lg-  
 ![avatar](https://github.com/wangabeng/Bootstrap/blob/master/1721174390-5488f77f33c5d_articlex.png?raw=true)
+
+# 一个非常高逼格的bootsrap站点
+https://www.crazycall.com/  
+注意： 任何元素容器中都可以内嵌fix布局元素 fix布局的元素会自动脱离文档流。form表单中的submit按钮也可以内嵌在form容器中，如果想把按钮固定在页面底部，只需要给其添加fixed布局即可使其脱离文档流，这样更符合表单结构规范。
+
